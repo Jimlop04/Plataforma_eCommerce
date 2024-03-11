@@ -3,6 +3,7 @@
                         <div class="card">
                         
                             <div class="card-header h6">DATOS DEL PRODUCTO</div>
+                             <div class="card-header h6">COMMIT</div>
                             
                             
                                 
